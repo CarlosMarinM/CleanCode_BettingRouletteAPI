@@ -2,7 +2,6 @@ package com.api.models;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
 
 import org.springframework.data.redis.core.RedisHash;
 
